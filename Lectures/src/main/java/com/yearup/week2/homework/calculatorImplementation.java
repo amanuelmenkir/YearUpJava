@@ -1,4 +1,4 @@
-package yearup.week2.homework;
+package com.yearup.week2.homework;
 import java.util.Scanner;
 
 public class calculatorImplementation implements Calculator {

@@ -1,6 +1,6 @@
-package yearup.week2.homework;
+package com.yearup.week2.homework;
 
-import yearup.week2.homework.Planet;
+import com.yearup.week2.homework.Planet;
 
 public class solarSystemPlanet extends Planet {
 
